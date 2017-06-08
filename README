@@ -1,3 +1,7 @@
-About - This is a B. tech project which aims to classify news article, extracted from well known news-papers, in differnet categories related to academic area.
+About - This is a B. tech project which aims to classify news article, extracted from well known news-papers, in differnet categories related to academic area( keepin in mind the LNMITT Education System).
 
-System prerequisite - 1. Python with beautifulsoup, urllib2 libraries installed
+System prerequisite - 1. Python with beautifulsoup, urllib2 libraries installed. 
+In this project, the data is analysis, pre-processed and further classified into various categories.
+
+Classification Algorithm like Naive Bayes, Support Vector Machine etc are used. Once the accuracy is checked, the trainer is then used to classify further news.
+
